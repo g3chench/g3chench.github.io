@@ -20,9 +20,9 @@ I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
 I was a teaching assistant for the following courses at UofT:
 
-- [CSC148H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to Computer Science
-- [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
-- [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
+- [CSC148H1](https://artsci.calendar.utoronto.ca/course/csc148h1) - Introduction to Computer Science
+- [CSC165H1](https://artsci.calendar.utoronto.ca/course/csc165h1) - Mathematical Expression and Reasoning for Computer Science
+- [CSC236H1](https://artsci.calendar.utoronto.ca/course/csc236h1) - Introduction to the Theory of Computation
 
 I am currently a Teacher Teaching on Call, but am qualified to teach in the following SFE subject areas:
 
