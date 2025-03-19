@@ -4,9 +4,9 @@ This was my personal website, once upon a time when it might've been useful for 
 
 ### About Me
 
-I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a specialist in computer science, major in biology, and minor in statistics.
+I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a Specialist in Computer Science, Major in Biology, and Minor in Statistics.
 
-I am currently enrolled in the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), with teachables in secondary biology and computer science (who would've guessed?)
+I completed the the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), with teachables in Secondary Biology and Computer Science (go figure).
 
 I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 
@@ -25,10 +25,17 @@ I was a teaching assistant for the following courses at UofT:
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
 - [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
 
+I am currently a Teacher Teaching on Call, but am qualified to teach in the following SFE callout subject areas:
+
+- Science 8-10
+- Biology 11-12
+- Computer Science 10-12
+- Math 8-10
+
 
 ### Projects
 
-I've culled most of my projects in the years since I switched career paths, but here are a few of the ones that remain:
+I've taken most of my projects offline in the years since I switched career paths, but here are a few of the more recent ones:
 
 - [Courseography](https://courseography.cdf.toronto.edu/graph) - A set of graphical interactive tools to guide students through their academic careers at UofT. Powered by a [Haskell](https://www.haskell.org/) backend and [React](https://reactjs.org/) frontend.
 
@@ -36,11 +43,6 @@ I've culled most of my projects in the years since I switched career paths, but 
 
 - [Replit](https://replit.com/@g3chench) - Miscellaneous scripts, mostly written for educational purposes.
 
-See my [GitHub](https://github.com/g3chench) for the rest.
+See my [GitHub](https://github.com/g3chench) for the rest that remain public.
 
 I have also been a bioinformatics research assistant at the [Chang Lab](https://chang.eeb.utoronto.ca/).
-
-
-### Resume
-
-I used to link my resume, but it contained too much personal information for what is now essentially a demo site. Available upon request.
