@@ -6,7 +6,7 @@ This was my personal website, once upon a time when it might've been useful for 
 
 I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 with a Specialist in Computer Science, Major in Biology, and Minor in Statistics.
 
-I then completed the the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), with teachables in Secondary Biology and Computer Science (go figure).
+I then completed the the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), with teachables in secondary Biology and Computer Science (go figure).
 
 I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
