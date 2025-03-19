@@ -1,6 +1,6 @@
 ### Welcome!
 
-This was my personal website, once upon a time when it might've been useful for me to have one. Now I suppose it serves as a demo of the kind of website I can generate in less time than it takes to do a lesson plan, using [GitHub Pages](https://pages.github.com).
+This was my personal website, once upon a time when it might've been useful for me to have one. Now it serves as a demo of the kind of website I can generate in less time than it takes to do a lesson plan, using [GitHub Pages](https://pages.github.com).
 
 ### About Me
 
@@ -8,7 +8,7 @@ I graduated from the [University of Toronto](https://www.utoronto.ca/) in 2017 w
 
 I completed the the [Professional Development Program](https://www.sfu.ca/education/teachersed/programs/pdp/overview.html) at [Simon Fraser University](https://www.sfu.ca/), with teachables in Secondary Biology and Computer Science (go figure).
 
-I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
+I have a pet western hognose snake (_Heterodon nasicus_)! Her name is Beagle.
 
 <div style="text-align: center;">
 	<a href="/assets/beagle.jpeg">
@@ -16,8 +16,7 @@ I have a pet western hognose snake (_Heterodon nasicus_). Her name is Beagle!
 	</a>
 </div>
 
-
-### Courses Taught
+### Teaching
 
 I was a teaching assistant for the following courses at UofT:
 
@@ -25,13 +24,12 @@ I was a teaching assistant for the following courses at UofT:
 - [CSC165H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Mathematical Expression and Reasoning for Computer Science
 - [CSC236H1](https://artsci.calendar.utoronto.ca/section/Computer-Science#courses) - Introduction to the Theory of Computation
 
-I am currently a Teacher Teaching on Call, but am qualified to teach in the following SFE callout subject areas:
+I am currently a Teacher Teaching on Call, but am qualified to teach in the following SFE subject areas:
 
 - Science 8-10
 - Biology 11-12
 - Computer Science 10-12
 - Math 8-10
-
 
 ### Projects
 
